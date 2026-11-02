@@ -1,0 +1,101 @@
+interaction_id,customer_source_id,source_system,interaction_type,channel,interaction_date,description,resolution_status
+INT-000000001,CRM-0000001,SUPPORT_CRM,QUERY,CHAT,2026-08-08,Meeting paper TV clear very positive out try early.,RESOLVED
+INT-000000002,CRM-0000001,SUPPORT_CRM,SUPPORT_REQUEST,WEB,2021-09-23,Beat military of film mission head.,IN_PROGRESS
+INT-000000003,CRM-0000001,SUPPORT_CRM,QUERY,CHAT,2022-01-31,Begin action least lose yes security.,IN_PROGRESS
+INT-000000004,ERP-0000001,SUPPORT_CRM,FEEDBACK,PHONE,2024-02-24,Hear send door meeting interview summer Republican someone.,OPEN
+INT-000000005,ERP-0000001,SUPPORT_CRM,QUERY,PHONE,2026-02-02,Dream chance sport head recognize article woman base usually.,OPEN
+INT-000000006,ERP-0000001,SUPPORT_CRM,PURCHASE_ENQUIRY,EMAIL,2024-10-03,Resource force rule go nature should.,RESOLVED
+INT-000000007,ERP-0000001,SUPPORT_CRM,FEEDBACK,EMAIL,2022-12-10,Home maintain either idea task start kid.,OPEN
+INT-000000008,CRM-0000002,SUPPORT_CRM,QUERY,WEB,2025-12-06,Course agency sit mouth reach song practice charge star.,RESOLVED
+INT-000000009,ERP-0000002,SUPPORT_CRM,PURCHASE_ENQUIRY,EMAIL,2026-10-06,Low night here commercial consumer as.,RESOLVED
+INT-000000010,CRM-0000003,SUPPORT_CRM,FEEDBACK,EMAIL,2021-05-20,Daughter bill upon wear field reveal eye travel.,OPEN
+INT-000000011,CRM-0000003,SUPPORT_CRM,FEEDBACK,EMAIL,2022-05-26,Seven charge check these particular responsibility.,IN_PROGRESS
+INT-000000012,CRM-0000003,SUPPORT_CRM,COMPLAINT,CHAT,2021-06-20,Scientist area across face surface center choice figure learn partner.,RESOLVED
+INT-000000013,CRM-0000004,SUPPORT_CRM,QUERY,EMAIL,2025-10-01,World bill scientist among training.,RESOLVED
+INT-000000014,CRM-0000004,SUPPORT_CRM,QUERY,PHONE,2025-11-08,Draw range often expert born need between.,IN_PROGRESS
+INT-000000015,CRM-0000004,SUPPORT_CRM,SUPPORT_REQUEST,PHONE,2021-07-25,Law can herself true argue method.,IN_PROGRESS
+INT-000000016,CRM-0000005,SUPPORT_CRM,FEEDBACK,CHAT,2022-07-02,Quickly move condition key.,IN_PROGRESS
+INT-000000017,CRM-0000005,SUPPORT_CRM,COMPLAINT,PHONE,2021-04-27,Up fill institution doctor nice happy set result think indicate.,OPEN
+INT-000000018,CRM-0000006,SUPPORT_CRM,FEEDBACK,CHAT,2023-09-06,Under find again begin our wait current military record.,IN_PROGRESS
+INT-000000019,CRM-0000006,SUPPORT_CRM,QUERY,EMAIL,2023-05-24,Market too size official Republican range effect.,IN_PROGRESS
+INT-000000020,CRM-0000006,SUPPORT_CRM,PURCHASE_ENQUIRY,EMAIL,2021-10-02,Production campaign local think gas including fire adult.,IN_PROGRESS
+INT-000000021,CRM-0000006,SUPPORT_CRM,PURCHASE_ENQUIRY,WEB,2024-08-01,System least claim rest full reduce week change.,OPEN
+INT-000000022,ERP-0000006,SUPPORT_CRM,COMPLAINT,PHONE,2023-02-21,Pm rock role newspaper public young let shake middle partner issue.,IN_PROGRESS
+INT-000000023,ERP-0000006,SUPPORT_CRM,PURCHASE_ENQUIRY,EMAIL,2021-03-16,Get make development issue fight court education choice.,OPEN
+INT-000000024,ERP-0000006,SUPPORT_CRM,COMPLAINT,CHAT,2024-02-11,Drive author throughout admit mention.,IN_PROGRESS
+INT-000000025,ERP-0000006,SUPPORT_CRM,SUPPORT_REQUEST,WEB,2026-01-31,Box apply who message television even entire economic.,OPEN
+INT-000000026,CRM-0000007,SUPPORT_CRM,QUERY,CHAT,2021-02-09,For ahead particularly level young possible.,OPEN
+INT-000000027,CRM-0000007,SUPPORT_CRM,COMPLAINT,CHAT,2022-06-16,I American any major fish build sometimes.,IN_PROGRESS
+INT-000000028,CRM-0000007,SUPPORT_CRM,FEEDBACK,EMAIL,2026-03-29,Easy small money hope memory present wife its mission me.,IN_PROGRESS
+INT-000000029,CRM-0000008,SUPPORT_CRM,COMPLAINT,WEB,2022-05-30,Officer against upon story rule.,OPEN
+INT-000000030,CRM-0000009,SUPPORT_CRM,SUPPORT_REQUEST,CHAT,2022-10-31,Also win cost environmental language strong their.,IN_PROGRESS
+INT-000000031,CRM-0000009,SUPPORT_CRM,PURCHASE_ENQUIRY,CHAT,2025-09-07,Themselves decade leave continue if range.,IN_PROGRESS
+INT-000000032,CRM-0000009,SUPPORT_CRM,COMPLAINT,PHONE,2026-01-18,Be agreement budget sport baby spend industry sell answer.,RESOLVED
+INT-000000033,CRM-0000009,SUPPORT_CRM,COMPLAINT,PHONE,2026-06-16,Summer operation often who box debate ok.,OPEN
+INT-000000034,CRM-0000010,SUPPORT_CRM,FEEDBACK,EMAIL,2022-09-27,Local international message up behavior.,IN_PROGRESS
+INT-000000035,CRM-0000010,SUPPORT_CRM,COMPLAINT,EMAIL,2021-08-17,Degree risk argue deep improve ahead catch its trial.,IN_PROGRESS
+INT-000000036,CRM-0000010,SUPPORT_CRM,FEEDBACK,EMAIL,2022-08-05,Little among model service little nature.,OPEN
+INT-000000037,CRM-0000011,SUPPORT_CRM,SUPPORT_REQUEST,EMAIL,2026-06-01,No official give air war have brother break prove until.,IN_PROGRESS
+INT-000000038,CRM-0000012,SUPPORT_CRM,FEEDBACK,PHONE,2023-06-22,Scientist perhaps consumer mention least reality special why ago.,IN_PROGRESS
+INT-000000039,CRM-0000012,SUPPORT_CRM,SUPPORT_REQUEST,CHAT,2021-03-01,Occur check language word owner expert write.,RESOLVED
+INT-000000040,CRM-0000012,SUPPORT_CRM,SUPPORT_REQUEST,WEB,2022-11-27,Center save teach church school manager whose nation later forward general.,IN_PROGRESS
+INT-000000041,CRM-0000012,SUPPORT_CRM,COMPLAINT,CHAT,2022-06-23,Public she increase much per matter direction true style.,OPEN
+INT-000000042,CRM-0000013,SUPPORT_CRM,COMPLAINT,CHAT,2023-04-28,Pm how son property size already experience improve century.,IN_PROGRESS
+INT-000000043,CRM-0000013,SUPPORT_CRM,QUERY,WEB,2022-08-11,Term education success prove edge bill.,OPEN
+INT-000000044,CRM-0000014,SUPPORT_CRM,QUERY,PHONE,2026-05-24,Think forward exactly main past of seem difficult.,IN_PROGRESS
+INT-000000045,CRM-0000014,SUPPORT_CRM,PURCHASE_ENQUIRY,CHAT,2023-10-29,Hotel determine mission brother now team who.,IN_PROGRESS
+INT-000000046,CRM-0000015,SUPPORT_CRM,FEEDBACK,EMAIL,2022-12-06,Mission half reduce either have away character.,OPEN
+INT-000000047,CRM-0000016,SUPPORT_CRM,SUPPORT_REQUEST,CHAT,2024-05-19,Garden box fact last vote vote partner later.,RESOLVED
+INT-000000048,CRM-0000016,SUPPORT_CRM,SUPPORT_REQUEST,CHAT,2025-08-05,Of memory catch American part bed.,IN_PROGRESS
+INT-000000049,CRM-0000017,SUPPORT_CRM,SUPPORT_REQUEST,PHONE,2024-09-10,Consider cost would think make stop.,RESOLVED
+INT-000000050,CRM-0000017,SUPPORT_CRM,FEEDBACK,CHAT,2023-08-10,Either within month agent only rest buy.,OPEN
+INT-000000051,CRM-0000017,SUPPORT_CRM,PURCHASE_ENQUIRY,PHONE,2022-11-21,Choice only capital I government next article.,OPEN
+INT-000000052,CRM-0000017,SUPPORT_CRM,FEEDBACK,PHONE,2024-09-08,Weight step expect analysis budget every simply alone.,IN_PROGRESS
+INT-000000053,CRM-0000018,SUPPORT_CRM,SUPPORT_REQUEST,CHAT,2022-08-07,Direction often glass beyond majority fact economic certainly early.,OPEN
+INT-000000054,CRM-0000018,SUPPORT_CRM,FEEDBACK,EMAIL,2021-01-29,Real fish structure price people professional create fill cut class.,RESOLVED
+INT-000000055,CRM-0000018,SUPPORT_CRM,COMPLAINT,CHAT,2022-09-29,Choose force how rather crime actually behavior hard look media foreign.,RESOLVED
+INT-000000056,CRM-0000019,SUPPORT_CRM,FEEDBACK,CHAT,2025-11-02,Doctor eat market environmental surface put.,RESOLVED
+INT-000000057,CRM-0000019,SUPPORT_CRM,QUERY,EMAIL,2026-10-19,Century central operation try situation.,IN_PROGRESS
+INT-000000058,CRM-0000019,SUPPORT_CRM,SUPPORT_REQUEST,WEB,2024-09-21,Choice common data image everything thought.,OPEN
+INT-000000059,CRM-0000020,SUPPORT_CRM,PURCHASE_ENQUIRY,WEB,2024-03-28,Require economy other response best under tough size standard.,IN_PROGRESS
+INT-000000060,CRM-0000020,SUPPORT_CRM,COMPLAINT,CHAT,2022-10-03,Avoid note image perform next treat oil.,IN_PROGRESS
+INT-000000061,CRM-0000020,SUPPORT_CRM,FEEDBACK,CHAT,2023-02-09,You range spring level describe reduce.,IN_PROGRESS
+INT-000000062,CRM-0000021,SUPPORT_CRM,FEEDBACK,PHONE,2025-03-11,Clear board leave individual piece officer number thus.,IN_PROGRESS
+INT-000000063,CRM-0000021,SUPPORT_CRM,QUERY,EMAIL,2026-09-20,Popular model together management ready.,RESOLVED
+INT-000000064,CRM-0000021,SUPPORT_CRM,FEEDBACK,PHONE,2025-03-07,Ground he trade clearly event million walk exist cost.,OPEN
+INT-000000065,CRM-0000021,SUPPORT_CRM,COMPLAINT,CHAT,2024-04-23,Quite section rise newspaper white country pay either.,RESOLVED
+INT-000000066,CRM-0000022,SUPPORT_CRM,COMPLAINT,EMAIL,2024-09-01,My inside trip represent conference we series hard after.,OPEN
+INT-000000067,CRM-0000022,SUPPORT_CRM,QUERY,PHONE,2025-04-26,Enjoy you edge become magazine interview generation.,RESOLVED
+INT-000000068,CRM-0000022,SUPPORT_CRM,PURCHASE_ENQUIRY,CHAT,2024-07-23,Far program success large decision former whatever every.,OPEN
+INT-000000069,CRM-0000022,SUPPORT_CRM,SUPPORT_REQUEST,CHAT,2021-03-28,Character quickly what head possible.,RESOLVED
+INT-000000070,CRM-0000023,SUPPORT_CRM,SUPPORT_REQUEST,PHONE,2024-01-04,Owner laugh into floor real animal defense contain.,IN_PROGRESS
+INT-000000071,CRM-0000023,SUPPORT_CRM,FEEDBACK,WEB,2024-01-19,Will exactly industry number operation across long set claim both cut.,IN_PROGRESS
+INT-000000072,CRM-0000023,SUPPORT_CRM,PURCHASE_ENQUIRY,CHAT,2025-02-01,Occur several religious surface election court property treatment chair.,RESOLVED
+INT-000000073,CRM-0000023,SUPPORT_CRM,PURCHASE_ENQUIRY,PHONE,2022-11-26,Moment organization resource identify force black practice consider high.,OPEN
+INT-000000074,CRM-0000024,SUPPORT_CRM,QUERY,PHONE,2025-08-02,Candidate mouth town detail.,RESOLVED
+INT-000000075,CRM-0000024,SUPPORT_CRM,COMPLAINT,CHAT,2021-02-24,Become country really reason policy grow similar.,IN_PROGRESS
+INT-000000076,CRM-0000024,SUPPORT_CRM,COMPLAINT,WEB,2021-11-08,Especially view real cultural performance.,IN_PROGRESS
+INT-000000077,CRM-0000024,SUPPORT_CRM,PURCHASE_ENQUIRY,CHAT,2021-11-16,Themselves hear finally always thus green yeah fast trade.,RESOLVED
+INT-000000078,CRM-0000025,SUPPORT_CRM,FEEDBACK,CHAT,2023-05-28,Behind sing specific later difficult scene upon attack right.,OPEN
+INT-000000079,CRM-0000025,SUPPORT_CRM,COMPLAINT,WEB,2022-10-17,Mission stay put model the eight all television tell.,RESOLVED
+INT-000000080,ERP-0000025,SUPPORT_CRM,FEEDBACK,CHAT,2025-06-10,So major risk few fill fund experience.,RESOLVED
+INT-000000081,ERP-0000025,SUPPORT_CRM,FEEDBACK,EMAIL,2026-05-26,Allow sort best management along beat response discuss build.,OPEN
+INT-000000082,CRM-0000026,SUPPORT_CRM,SUPPORT_REQUEST,PHONE,2022-09-11,Reveal room hit still bring weight feel author.,OPEN
+INT-000000083,CRM-0000026,SUPPORT_CRM,FEEDBACK,CHAT,2026-05-28,Sister modern think memory effort.,IN_PROGRESS
+INT-000000084,CRM-0000026,SUPPORT_CRM,QUERY,CHAT,2024-08-08,Rule million agent approach ball trial pretty foot.,IN_PROGRESS
+INT-000000085,CRM-0000026,SUPPORT_CRM,QUERY,EMAIL,2023-03-10,Suffer hot prepare reality leader.,IN_PROGRESS
+INT-000000086,CRM-0000027,SUPPORT_CRM,COMPLAINT,WEB,2022-06-09,Because team thought film involve from cost television.,OPEN
+INT-000000087,CRM-0000027,SUPPORT_CRM,COMPLAINT,WEB,2021-04-26,Into institution improve new guess upon wish federal fact kitchen.,RESOLVED
+INT-000000088,CRM-0000027,SUPPORT_CRM,PURCHASE_ENQUIRY,WEB,2021-09-18,Data rate be ten strong.,OPEN
+INT-000000089,CRM-0000027,SUPPORT_CRM,QUERY,CHAT,2021-05-28,Foreign think discover purpose continue interview list although nearly we by.,IN_PROGRESS
+INT-000000090,CRM-0000028,SUPPORT_CRM,PURCHASE_ENQUIRY,PHONE,2024-10-16,Ready likely recognize value should season.,IN_PROGRESS
+INT-000000091,CRM-0000028,SUPPORT_CRM,QUERY,EMAIL,2024-12-29,Fill trip relate field professor order movement social pull.,IN_PROGRESS
+INT-000000092,CRM-0000029,SUPPORT_CRM,QUERY,PHONE,2024-12-21,Film experience year do red assume pay price.,OPEN
+INT-000000093,CRM-0000029,SUPPORT_CRM,PURCHASE_ENQUIRY,CHAT,2024-12-13,Manager shoulder paper try provide suggest pay appear even believe above.,RESOLVED
+INT-000000094,CRM-0000030,SUPPORT_CRM,FEEDBACK,PHONE,2023-12-13,Social by create claim full receive body decide.,OPEN
+INT-000000095,CRM-0000030,SUPPORT_CRM,PURCHASE_ENQUIRY,PHONE,2026-07-25,Speech industry event red deep require material authority will.,OPEN
+INT-000000096,CRM-0000030,SUPPORT_CRM,FEEDBACK,CHAT,2021-08-08,Produce draw the effort.,OPEN
+INT-000000097,CRM-0000031,SUPPORT_CRM,SUPPORT_REQUEST,WEB,2023-07-17,Shoulder bad this win table already.,IN_PROGRESS
+INT-000000098,CRM-0000031,SUPPORT_CRM,PURCHASE_ENQUIRY,CHAT,2022-08-07,Man character maintain act fly speak create never collection.,IN_PROGRESS
+INT-000000099,CRM-0000031,SUPPORT_CRM,COMPLAINT,PHONE,2021-01-07,Dinner eat bag the general PM dark she federal.,IN_PROGRESS
+INT-000000100,CRM-0000031,SUPPORT_CRM,FEEDBACK,CHAT,2026-05-02,When statement professional thing industry street themselves.,IN_PROGRESS

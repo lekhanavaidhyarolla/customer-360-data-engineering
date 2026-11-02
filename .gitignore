@@ -1,0 +1,54 @@
+﻿# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Generated databases and logs
+*.duckdb
+*.db
+*.log
+
+# Generated pipeline data
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+data/quarantine/*
+!data/quarantine/.gitkeep
+
+# Ignore large generated sample datasets
+data/sample/*.csv
+
+# Keep small representative sample datasets
+!data/sample/customers_small.csv
+!data/sample/accounts_small.csv
+!data/sample/orders_small.csv
+!data/sample/interactions_small.csv
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated pipeline logs and run history
+logs/*
+!logs/.gitkeep
